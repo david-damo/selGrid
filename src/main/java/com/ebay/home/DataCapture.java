@@ -2,7 +2,7 @@ package com.ebay.home;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-
+//Object file in POM style
 public class DataCapture {
 	//*****************************Home Page **********************************
 	@FindBy(xpath="//input[@data-reactid='46']")
