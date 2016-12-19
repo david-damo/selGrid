@@ -8,8 +8,8 @@ public class ebayLogin extends AppHomeTest{
 	public void validLoginCredential() throws InterruptedException{
 		cap.getUserLoginLink().click();
 		Thread.sleep(15000);
-		cap.getUserEmail().sendKeys("XXXXXXX");
-		cap.getUserPassword().sendKeys("XXXXX");
+		cap.getUserEmail().sendKeys("cgi.test.mail@gmail.com ");
+		cap.getUserPassword().sendKeys("MyNew@Pass1");
 		cap.getUserInfoUncheck().click();
 		cap.getUserLoginButton().click();
 		try{

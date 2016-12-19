@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="46719" started-at="2016-12-13T16:45:59Z" finished-at="2016-12-13T16:46:46Z">
+  <suite name="Default suite" duration-ms="43405" started-at="2016-12-19T15:59:25Z" finished-at="2016-12-19T16:00:09Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="46719" started-at="2016-12-13T16:45:59Z" finished-at="2016-12-13T16:46:46Z">
+    <test name="Default test" duration-ms="43405" started-at="2016-12-19T15:59:25Z" finished-at="2016-12-19T16:00:09Z">
       <class name="com.ebay.home.ebayLogin">
-        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.ebay.home.ebayLogin@6276ae34]" name="firstTest" duration-ms="22919" started-at="2016-12-13T22:15:59Z" finished-at="2016-12-13T22:16:22Z">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.ebay.home.ebayLogin@6276ae34]" name="firstTest" duration-ms="15564" started-at="2016-12-19T21:29:25Z" finished-at="2016-12-19T21:29:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTest -->
-        <test-method status="PASS" signature="validLoginCredential()[pri:0, instance:com.ebay.home.ebayLogin@6276ae34]" name="validLoginCredential" duration-ms="23776" started-at="2016-12-13T22:16:22Z" finished-at="2016-12-13T22:16:46Z">
+        <test-method status="PASS" signature="validLoginCredential()[pri:0, instance:com.ebay.home.ebayLogin@6276ae34]" name="validLoginCredential" duration-ms="27814" started-at="2016-12-19T21:29:41Z" finished-at="2016-12-19T21:30:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLoginCredential -->
